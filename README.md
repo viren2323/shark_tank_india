@@ -1,7 +1,7 @@
 # shark_tank_india
-Shark Tank India - Season 1 information.
+# Shark Tank India - Season 1 information.
 
-One season of SHARK TANK INDIA was broadcasted in SonyLiv OTT.
+. One season of SHARK TANK INDIA was broadcasted in SonyLiv OTT.
 
 Here is the data dictionary for Shark Tank (India) season's dataset.
 
